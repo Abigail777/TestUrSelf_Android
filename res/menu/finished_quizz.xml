@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/clear_score"
+        android:orderInCategory="100"
+        android:icon="@android:drawable/ic_input_delete"
+        android:title="Remove scores"/>
+
+</menu>

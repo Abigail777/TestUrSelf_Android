@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <ListPreference
+        android:entries="@array/grades"
+        android:entryValues="@array/gradevalues"
+        android:key="pref_grade"
+        android:summary="@string/subject_menu_summary"
+        android:title="@string/subject_menu_title" />
+
+    <CheckBoxPreference
+        android:key="pref_random"
+        android:summary="Sort randomly the questions"
+        android:title="Random" />
+
+</PreferenceScreen>

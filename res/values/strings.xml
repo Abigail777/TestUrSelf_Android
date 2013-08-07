@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    
+    <string name="app_name">TestUrSelf</string>
+    <string name="login">Connection</string>
+    <string name="idbooster">ID Booster</string>
+    <string name="password">Password</string>
+    <string name="settings">Parameters</string>
+    <string name="subject_menu_title">Study level</string>
+    <string name="subject_menu_summary">Choose your grade</string>
+    <string name="prev">Previous</string>
+    <string name="next">Next</string>
+    <string name="title_activity_quizzs">Quizzs</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_finished_quizz">FinishedQuizz</string>
+</resources>
